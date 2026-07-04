@@ -52,6 +52,7 @@ fopMsgM_int_to_char__FPcib = 0x800350b8;
 strcmp = 0x8032db44;
 strcat = 0x8032dc6c;
 
+fopAcM_orderSpeakEvent__FP10fopAc_ac_c = 0x80025f04;
 fopAcM_createItem__FP4cXyziiiiP5csXyziP4cXyz = 0x80026adc;
 fopAcM_createItemForPresentDemo__FP4cXyziUciiP5csXyzP4cXyz = 0x80026118;
 fopAcM_createItemFromTable__FP4cXyziiiiP5csXyziP4cXyz = 0x800262b4;

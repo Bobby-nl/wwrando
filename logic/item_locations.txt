@@ -471,13 +471,13 @@ Windfall Island - Battlesquid - Under 20 Shots Prize:
 #  Original item: Orange Rupee
 #  Paths:
 #    - rels/d_a_npc_kg1.rel@2C2D
-Windfall Island - Dampa Pig Minigame - Deliver 1 Pig
+Windfall Island - Dampa Pig Minigame - Deliver 1 Pig:
   Need: Nothing   
   Original item: Red Rupee
   Types: Minigame
   Paths:
     - rels/d_a_npc_people.rel@5BC3
-Windfall Island - Dampa Pig Minigame - Deliver 3 Pigs
+Windfall Island - Dampa Pig Minigame - Deliver 3 Pigs:
   Need: Spoils Bag & Can Farm Skull Necklaces
   Original item: Purple Rupee
   Types: Minigame, Spoils Trading
